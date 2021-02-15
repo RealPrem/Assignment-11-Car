@@ -18,7 +18,6 @@ namespace Assignment_11_Car
             MyCar = null;
             Console.WriteLine(Driver.Name);
             Console.WriteLine(MyEngine.HorsePower);
-            Console.WriteLine("push");
         }
     }
 }
